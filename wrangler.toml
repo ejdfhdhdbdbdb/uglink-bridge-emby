@@ -3,13 +3,13 @@ main = "dist/index.js"
 compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
-BASE_URL = ""
-PORT = ""
-USERNAME = ""
+BASE_URL = "https://dh4300plus-0a54-3i9w.cn29.ug.link/"
+PORT = "8098"
+USERNAME = "kk22072"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
-id = ""  # Replace with your actual KV namespace ID from Cloudflare dashboard
+id = "2255ad5e99794ff785650160e88555cf"  # Replace with your actual KV namespace ID from Cloudflare dashboard
 
 [observability.logs]
 enabled = true
